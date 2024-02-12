@@ -1,0 +1,79 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #990000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+body {
+	background-color: #FFF4F2
+}
+
+
+.homepage h1 
+{
+	color: red
+	
+}
+.homepage p {
+	color: 	#8B0000
+}
+
+
+
+.about h1 { 
+	color: 		#1100a7
+}
+
+.about p {
+	color: #bc2323
+}
+#second {
+	color: 	#0090ab
+}
+
+.fna {
+	color: #e10531
+}
+.lna {
+	color: #ee7272
+}
+.ema {
+	color: #a31818
+}
+.sub {
+	color: 	#c051ff
+}
+.mes {
+	color: 	#404be3
+}
+.fnaa {
+	background-color: 	#ffa2b5
+}
+.back {
+	background-color: 	#7794a1
+}
+.lnaa {
+	background-color: 	#fff897
+}
+.emm {
+	background-color: 	#896790
+}
